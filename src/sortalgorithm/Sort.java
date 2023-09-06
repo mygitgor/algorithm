@@ -138,7 +138,6 @@ public class Sort {
             }
         }
         }while(!finish);
-        
     }
 
     public static void dyrectSort(int[] array){
